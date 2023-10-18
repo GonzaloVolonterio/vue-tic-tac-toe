@@ -15,3 +15,7 @@ For those unfamiliar with the game, [here are the rules](https://www.wikihow.com
 
 
 ## Live
+
+https://spiffy-fenglisu-7431cb.netlify.app/
+
+![vue-tic-tac-toe-img](https://github.com/GonzaloVolonterio/vue-tic-tac-toe/assets/64506662/52a95c33-55eb-48da-9a10-6d57789eb6c3)
